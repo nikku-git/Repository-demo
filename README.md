@@ -1,4 +1,4 @@
 # Repository-demo
 This is my first Git Repository.
 <br>
-Author - Krishna Gopal(Nikku)
+Author - Nikku(Krishna Gopal)
